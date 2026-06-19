@@ -65,7 +65,7 @@ The project ships in two parts:
 ## 🗂 Project Structure
 
 ```
-.
+
 ├── data_preprocessing_and_model_training.ipynb   # Exploratory notebook: EDA + model training
 ├── app.py                                        # Streamlit web app
 ├── requirements.txt                              # Python dependencies
@@ -97,7 +97,7 @@ y = df["Outlier_label"]                # Reference label (not used in training)
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/zakir-maswani/Anomalies-Detection-Isolation-Fores>.git
 cd <your-repo>
 ```
 
